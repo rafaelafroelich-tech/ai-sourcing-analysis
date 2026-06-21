@@ -1,11 +1,14 @@
 # AI-Powered Human-Centered Sourcing Analytics
 This project analyzes recruiting funnel performance, sourcing effectiveness, and recruiter impact while leveraging AI to support recruiter decision-making.
-
 The objective is not to automate hiring decisions, but to provide explainable insights that help recruiting teams prioritize outreach efforts and improve sourcing outcomes.
 
 ## Executive Summary
-- Candidates: 601
-- Hire Rate: 8.15%
+Metric Value
+Candidates Analyzed 601
+Total Hires 49
+Overall Hire Rate 8.15%
+Top Channel GitHub (10.96%)
+Top Recruiter Bruno (15.3%)
 
 ## Business Questions
 **1. Which sourcing strategies convert best?**
